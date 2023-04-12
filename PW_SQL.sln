@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33516.290
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PW_SQL", "PW_SQL\PW_SQL.csproj", "{B4D5084C-9801-459A-A94E-F4679B9171AB}"
+EndProject
+Project("{54435603-DBB4-11D2-8724-00A0C9A8B90C}") = "Setup2", "Setup2\Setup2.vdproj", "{4623CADE-D3DF-4623-A6DE-FA3737D76700}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B4D5084C-9801-459A-A94E-F4679B9171AB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4D5084C-9801-459A-A94E-F4679B9171AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4D5084C-9801-459A-A94E-F4679B9171AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4D5084C-9801-459A-A94E-F4679B9171AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4623CADE-D3DF-4623-A6DE-FA3737D76700}.Debug|Any CPU.ActiveCfg = Debug
+		{4623CADE-D3DF-4623-A6DE-FA3737D76700}.Release|Any CPU.ActiveCfg = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {424D28BF-7179-494A-BAAE-1890D10F572F}
+	EndGlobalSection
+EndGlobal
